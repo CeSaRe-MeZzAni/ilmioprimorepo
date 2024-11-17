@@ -15,7 +15,8 @@ AUGURI
 - Affori centro
 - Dergano
 - Maciachini
-- Zara, Sondrio
+- Zara
+- Sondrio
 - Centrale
 - Repubblica
 - Turati

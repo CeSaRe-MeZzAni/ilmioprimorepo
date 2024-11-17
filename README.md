@@ -12,3 +12,22 @@ AUGURI
 ### metro gialla 
 - Comasina
 - Affori FN
+- Affori centro
+- Dergano
+- Maciachini
+- Zara, Sondrio
+- Centrale
+- Repubblica
+- Turati
+- Montenapoleone
+- Duomo
+- Missori
+- Crocetta
+- Porta Romana\
+- Lodi T.I.B.B.
+- Brenta
+- Corvetto
+- Porto di Mare
+- Rogoredo
+- San Donato
+

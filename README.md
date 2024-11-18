@@ -22,3 +22,4 @@ AUGURI
 - Turati
 - Montenapoleone
 - Duomo
+- Missori

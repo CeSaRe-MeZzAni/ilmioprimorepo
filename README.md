@@ -25,3 +25,4 @@ AUGURI
 - Missori
 - Crocetta
 - Porta Romana
+- Lodi

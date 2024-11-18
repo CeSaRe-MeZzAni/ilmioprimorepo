@@ -21,3 +21,4 @@ AUGURI
 - Republica
 - Turati
 - Montenapoleone
+- Duomo

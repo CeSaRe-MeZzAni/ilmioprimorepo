@@ -15,3 +15,4 @@ AUGURI
 - Affori centro
 - Dergano
 - Maciachini
+- Zara

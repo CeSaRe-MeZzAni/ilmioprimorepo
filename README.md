@@ -18,3 +18,4 @@ AUGURI
 - Zara
 - Sondrio
 - Centrale
+- Republica

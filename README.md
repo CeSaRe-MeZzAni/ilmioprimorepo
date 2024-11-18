@@ -8,3 +8,26 @@ BELLA
 BUON NATALE
 ###### questo e il mio primo sotto titolo
 AUGURI
+## fermate della metro di milano
+### metro gialla 
+- Comasina
+- Affori FN
+- Affori centro
+- Dergano
+- Maciachini
+- Zara
+- Sondrio
+- Centrale
+- Republica
+- Turati
+- Montenapoleone
+- Duomo
+- Missori
+- Crocetta
+- Porta Romana
+- Lodi
+- Brenta
+- Corvetto
+- Porto di Mare
+- Rogoredo
+- San Donato

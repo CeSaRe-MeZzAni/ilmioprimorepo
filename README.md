@@ -30,3 +30,4 @@ AUGURI
 - Corvetto
 - Porto di Mare
 - Rogoredo
+- San Donato

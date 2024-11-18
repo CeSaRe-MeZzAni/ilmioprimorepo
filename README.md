@@ -19,3 +19,4 @@ AUGURI
 - Sondrio
 - Centrale
 - Republica
+- Turati

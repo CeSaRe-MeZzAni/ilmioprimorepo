@@ -16,3 +16,4 @@ AUGURI
 - Dergano
 - Maciachini
 - Zara
+- Sondrio

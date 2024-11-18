@@ -17,3 +17,4 @@ AUGURI
 - Maciachini
 - Zara
 - Sondrio
+- Centrale

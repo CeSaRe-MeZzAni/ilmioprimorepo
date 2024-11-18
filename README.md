@@ -23,3 +23,4 @@ AUGURI
 - Montenapoleone
 - Duomo
 - Missori
+- Crocetta

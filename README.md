@@ -24,3 +24,4 @@ AUGURI
 - Duomo
 - Missori
 - Crocetta
+- Porta Romana
